@@ -11,28 +11,31 @@
 class Solution {
 public:
     ListNode* partition(ListNode* head, int x) {
-         ListNode* slist = new ListNode(0, nullptr);
-        ListNode* blist = new ListNode(0, nullptr);
-        ListNode* small = slist;
-        ListNode* big = blist;
-
-        while (head != nullptr) {
-            if (head->val < x) {
-                small->next = head;
-                small = small->next;
-            } else {
-                big->next = head;
-                big = big->next;
-            }
-            head = head->next;
+        ListNode* temp= head;
+        vector<int> partition;
+        if (!head) return nullptr;
+        while(temp!=nullptr){
+            partition.push_back(temp->val);
+            temp=temp->next;
         }
-
-        small->next = blist->next;
-        big->next = nullptr;
-
-        ListNode* result = slist->next;
-        delete slist;
-        delete blist;
-        return result;        
+        vector<int> partition1;
+        for(int i=0; i<partition.size(); i++){
+            if(partition[i]<x){
+                partition1.push_back(partition[i]);
+            }
+        }
+        for(int i=0; i<partition.size();i++){
+            if(partition[i]>=x){
+                partition1.push_back(partition[i]);
+            }
+        }
+        ListNode* head1= new ListNode(partition1[0]);
+        ListNode* curr=head1;
+        for(int i=1; i<partition1.size();i++){
+            curr->next=new ListNode(partition1[i]);
+            curr=curr->next;
+        }
+        return head1;
+        
     }
 };
