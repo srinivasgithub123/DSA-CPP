@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0496-next-greater-element-i) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
