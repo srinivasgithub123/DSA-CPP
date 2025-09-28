@@ -10,7 +10,7 @@ public:
         Node(int k, int v){
             key=k;
             val=v;
-            prev=next=NULL;
+            prev=next=nullptr;
         }
     };
 
