@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0086-partition-list](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0328-odd-even-linked-list) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0496-next-greater-element-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0155-min-stack) |
 ## Math
 |  |
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0830-largest-triangle-area) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
