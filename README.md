@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0503-next-greater-element-ii) |
 | [0611-valid-triangle-number](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0611-valid-triangle-number) |
 | [0682-baseball-game](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0735-asteroid-collision) |
 | [0830-largest-triangle-area](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1018-largest-perimeter-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0874-backspace-string-compare) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
