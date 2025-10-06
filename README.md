@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0874-backspace-string-compare) |
 | [0883-car-fleet](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0883-car-fleet) |
+| [0886-score-of-parentheses](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0886-score-of-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Recursion
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0071-simplify-path) |
 | [0874-backspace-string-compare](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0886-score-of-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2887-sort-vowels-in-a-string) |
