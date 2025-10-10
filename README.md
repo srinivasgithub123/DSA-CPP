@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0146-lru-cache) |
+| [0387-first-unique-character-in-a-string](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0496-next-greater-element-i) |
 | [1612-avoid-flood-in-the-city](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1612-avoid-flood-in-the-city) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0071-simplify-path) |
+| [0387-first-unique-character-in-a-string](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0874-backspace-string-compare](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0886-score-of-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Monotonic Stack
 |  |
@@ -180,4 +183,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
