@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0682-baseball-game) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0225-implement-stack-using-queues) |
 ## Math
 |  |
 | ------- |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1612-avoid-flood-in-the-city](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1612-avoid-flood-in-the-city) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
