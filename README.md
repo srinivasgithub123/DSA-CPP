@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1018-largest-perimeter-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1612-avoid-flood-in-the-city](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1612-avoid-flood-in-the-city) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0874-backspace-string-compare) |
 | [1642-water-bottles](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1642-water-bottles) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Stack
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0886-score-of-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Recursion
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Prefix Sum
 |  |
 | ------- |
