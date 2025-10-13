@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0239-sliding-window-maximum](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0503-next-greater-element-ii) |
 | [0611-valid-triangle-number](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0611-valid-triangle-number) |
@@ -183,12 +184,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0239-sliding-window-maximum) |
 | [1612-avoid-flood-in-the-city](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1612-avoid-flood-in-the-city) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2195-time-needed-to-buy-tickets) |
@@ -196,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
