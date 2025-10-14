@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Simulation
 |  |
 | ------- |
