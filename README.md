@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0071-simplify-path) |
+| [0257-binary-tree-paths](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0874-backspace-string-compare](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0886-score-of-parentheses) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
@@ -246,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0572-subtree-of-another-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
