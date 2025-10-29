@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1642-water-bottles](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Binary Search
 |  |
 | ------- |
@@ -322,4 +323,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0222-count-complete-tree-nodes) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3676-smallest-number-with-all-set-bits) |
 <!---LeetCode Topics End-->
