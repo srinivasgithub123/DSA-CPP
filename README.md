@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0404-sum-of-left-leaves) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0404-sum-of-left-leaves) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0404-sum-of-left-leaves) |
@@ -382,5 +385,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0799-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
