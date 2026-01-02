@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0739-daily-temperatures) |
 | [0830-largest-triangle-area](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0830-largest-triangle-area) |
 | [0883-car-fleet](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0883-car-fleet) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1018-largest-perimeter-triangle) |
 | [1253-sort-the-matrix-diagonally](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1253-sort-the-matrix-diagonally) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0146-lru-cache) |
 | [0387-first-unique-character-in-a-string](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0496-next-greater-element-i) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1612-avoid-flood-in-the-city) |
 | [2169-simple-bank-system](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2169-simple-bank-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3242-count-elements-with-maximum-frequency) |
