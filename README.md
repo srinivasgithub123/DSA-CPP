@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0200-number-of-islands](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0496-next-greater-element-i) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0617-merge-two-binary-trees) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0200-number-of-islands) |
 | [1253-sort-the-matrix-diagonally](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1253-sort-the-matrix-diagonally) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Binary Search Tree
@@ -426,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
