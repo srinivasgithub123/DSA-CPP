@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0830-largest-triangle-area) |
 | [0883-car-fleet](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0883-car-fleet) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0994-rotting-oranges](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0994-rotting-oranges) |
 | [1018-largest-perimeter-triangle](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1018-largest-perimeter-triangle) |
 | [1253-sort-the-matrix-diagonally](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1253-sort-the-matrix-diagonally) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0994-rotting-oranges](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0994-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0994-rotting-oranges) |
 | [1253-sort-the-matrix-diagonally](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1253-sort-the-matrix-diagonally) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Binary Search Tree
