@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1612-avoid-flood-in-the-city](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1612-avoid-flood-in-the-city) |
+| [1631-path-with-minimum-effort](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2050-parallel-courses-iii](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2050-parallel-courses-iii) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0222-count-complete-tree-nodes) |
 | [0611-valid-triangle-number](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0611-valid-triangle-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1612-avoid-flood-in-the-city) |
+| [1631-path-with-minimum-effort](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Greedy
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0239-sliding-window-maximum) |
 | [1612-avoid-flood-in-the-city](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1612-avoid-flood-in-the-city) |
+| [1631-path-with-minimum-effort](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Queue
 |  |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Binary Tree
 |  |
@@ -427,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0994-rotting-oranges) |
 | [1253-sort-the-matrix-diagonally](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1253-sort-the-matrix-diagonally) |
+| [1631-path-with-minimum-effort](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Binary Search Tree
 |  |
@@ -452,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0200-number-of-islands) |
+| [1631-path-with-minimum-effort](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
