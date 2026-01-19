@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0239-sliding-window-maximum) |
+| [0743-network-delay-time](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1612-avoid-flood-in-the-city](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0687-longest-univalue-path) |
+| [0743-network-delay-time](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0802-find-eventual-safe-states](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0802-find-eventual-safe-states) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0662-maximum-width-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0802-find-eventual-safe-states](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0802-find-eventual-safe-states) |
@@ -482,11 +485,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
