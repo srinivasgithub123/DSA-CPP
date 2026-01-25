@@ -6,7 +6,7 @@ public:
         int ans=0;
 
         vector<vector<bool>> vis(n, vector<bool>(m, false));
-        queue<pair<pair<int, int>, int>>q;//(i,j), time
+        queue<pair<pair<int, int>, int>>q;//((i,j), time)
         //pushing all sources in queue
         for(int i=0;i<n; i++){
             for(int j=0; j<m; j++){
@@ -60,3 +60,4 @@ public:
     return ans;    
     }
 };
+
