@@ -25,3 +25,47 @@ public:
         
     }
 };
+
+// class Solution {
+// public:
+//     string reverseByType(string s) {
+//         int left= 0;
+//         int right= s.size()-1;
+
+//         while(left<right){
+//             while(left<s.size() && !isalpha(s[left])){
+//                 left++;
+//             }
+
+//             while(right>=0 && !isalpha(s[right])){
+//                 right--;
+//             }
+
+//             if(left<right){
+//                 swap(s[left], s[right]);
+//                 left++;
+//                 right--;
+//             }
+//         }
+
+//          left= 0;
+//          right= s.size()-1;
+
+//         while(left<right){
+//             while(left<s.size() && isalpha(s[left])){
+//                 left++;
+//             }
+
+//             while(right>=0 && isalpha(s[right])){
+//                 right--;
+//             }
+
+//             if(left<right){
+//                 swap(s[left], s[right]);
+//                 left++;
+//                 right--;
+//             }
+//         } 
+
+//         return s;
+//     }};
