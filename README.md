@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0874-backspace-string-compare) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0071-simplify-path) |
 | [0127-word-ladder](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0257-binary-tree-paths) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0830-largest-triangle-area](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1018-largest-perimeter-triangle) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0260-single-number-iii) |
