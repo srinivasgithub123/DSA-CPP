@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2050-parallel-courses-iii](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2050-parallel-courses-iii) |
 | [2169-simple-bank-system](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2169-simple-bank-system) |
 | [2195-time-needed-to-buy-tickets](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2195-time-needed-to-buy-tickets) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1200-minimum-absolute-difference) |
 | [1253-sort-the-matrix-diagonally](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1253-sort-the-matrix-diagonally) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2887-sort-vowels-in-a-string) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1018-largest-perimeter-triangle) |
 | [1612-avoid-flood-in-the-city](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Dynamic Programming
 |  |
 | ------- |
