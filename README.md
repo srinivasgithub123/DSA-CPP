@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0496-next-greater-element-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1612-avoid-flood-in-the-city](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1612-avoid-flood-in-the-city) |
 | [2169-simple-bank-system](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2169-simple-bank-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1189-maximum-number-of-balloons) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2887-sort-vowels-in-a-string](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2887-sort-vowels-in-a-string) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0239-sliding-window-maximum) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Monotonic Queue
 |  |
