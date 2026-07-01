@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3379-transformed-array](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3379-transformed-array) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1612-avoid-flood-in-the-city](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Queue
 |  |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -500,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1253-sort-the-matrix-diagonally](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1253-sort-the-matrix-diagonally) |
 | [1631-path-with-minimum-effort](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -559,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0695-max-area-of-island](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0778-swim-in-rising-water) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Enumeration
 |  |
 | ------- |
