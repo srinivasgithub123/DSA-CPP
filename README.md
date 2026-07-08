@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0778-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0830-largest-triangle-area) |
 | [0883-car-fleet](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0883-car-fleet) |
+| [0904-fruit-into-baskets](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1004-max-consecutive-ones-iii) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
