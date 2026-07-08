@@ -30,62 +30,62 @@
 
 
 
-// class Solution{
-// public:
-//     int lengthOfLongestSubstring(string s){
-//         int ans=0;
-//         unordered_set<char>st;
-//         int left=0;
-
-//         for(int right=0; right<s.size(); right++){
-//             if(st.find(s[right])==st.end()){
-//                 st.insert(s[right]);
-//             }else{
-//                 while(st.count(s[right])){
-//                     st.erase(s[left]);
-//                     left++;
-//                 }
-//                 st.insert(s[right]);
-//             }
-//             ans= max(ans, right-left+1);
-//         }
-
-//     return ans;    
-//     }
-// };
-
-
-
-
-
-
-
-
-
-
-
-
 class Solution{
 public:
     int lengthOfLongestSubstring(string s){
+        int ans=0;
         unordered_set<char>st;
-        int ans= 0;
         int left=0;
-        int right=0;
-        while(right<s.size()){
+
+        for(int right=0; right<s.size(); right++){
             if(st.find(s[right])==st.end()){
                 st.insert(s[right]);
-                ans= max(ans, right-left+1);
-                right++;
             }else{
-                while(s[left]!=s[right]){
+                while(st.count(s[right])){
                     st.erase(s[left]);
                     left++;
                 }
-                st.erase(s[left]);
-                left++;
+                st.insert(s[right]);
             }
+            ans= max(ans, right-left+1);
         }
-        return ans;
+
+    return ans;    
     }
 };
+
+
+
+
+
+
+
+
+
+
+
+
+// class Solution{
+// public:
+//     int lengthOfLongestSubstring(string s){
+//         unordered_set<char>st;
+//         int ans= 0;
+//         int left=0;
+//         int right=0;
+//         while(right<s.size()){
+//             if(st.find(s[right])==st.end()){
+//                 st.insert(s[right]);
+//                 ans= max(ans, right-left+1);
+//                 right++;
+//             }else{
+//                 while(s[left]!=s[right]){
+//                     st.erase(s[left]);
+//                     left++;
+//                 }
+//                 st.erase(s[left]);
+//                 left++;
+//             }
+//         }
+//         return ans;
+//     }
+// };
