@@ -590,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0778-swim-in-rising-water) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
