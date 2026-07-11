@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0682-baseball-game) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0404-sum-of-left-leaves) |
+| [0542-01-matrix](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0662-maximum-width-of-binary-tree) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0994-rotting-oranges) |
