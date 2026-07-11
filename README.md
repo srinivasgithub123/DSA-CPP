@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0617-merge-two-binary-trees) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0695-max-area-of-island) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0778-swim-in-rising-water) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
