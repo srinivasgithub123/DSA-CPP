@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-largest-perimeter-triangle](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1018-largest-perimeter-triangle) |
+| [1020-number-of-enclaves](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1200-minimum-absolute-difference) |
 | [1253-sort-the-matrix-diagonally](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1253-sort-the-matrix-diagonally) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0802-find-eventual-safe-states](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0802-find-eventual-safe-states) |
+| [1020-number-of-enclaves](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1020-number-of-enclaves) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0802-find-eventual-safe-states](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1253-sort-the-matrix-diagonally) |
 | [1631-path-with-minimum-effort](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
@@ -604,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0778-swim-in-rising-water) |
+| [1020-number-of-enclaves](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Enumeration
