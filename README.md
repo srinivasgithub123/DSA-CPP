@@ -592,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0802-find-eventual-safe-states) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2685-count-the-number-of-complete-components](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2685-count-the-number-of-complete-components) |
