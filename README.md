@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0695-max-area-of-island) |
+| [0724-find-pivot-index](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0778-swim-in-rising-water) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1004-max-consecutive-ones-iii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3719-longest-balanced-subarray-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3719-longest-balanced-subarray-i) |
