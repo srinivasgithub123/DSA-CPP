@@ -34,25 +34,53 @@
 
 
 
+// class Solution{
+// public:
+//     int pivotIndex(vector<int>& nums){
+//         vector<int>ps(nums.size());
+//         vector<int>ss(nums.size());
+//         ps[0]=nums[0];
+//         ss[nums.size()-1]=nums[nums.size()-1];
+//         for(int i=1; i<nums.size(); i++){
+//             ps[i]= ps[i-1]+nums[i];
+//         }  
+
+//         for(int i=nums.size()-2; i>=0; i--){
+//             ss[i]=ss[i+1]+nums[i];
+//         }
+
+//         for(int i=0; i<nums.size(); i++){
+//             if(ps[i]-ss[i]==0){
+//                 return i;
+//             }
+//         }
+//     return -1;    
+//     }
+// };
+
+
+
+
+
+
+
+
+
 class Solution{
 public:
     int pivotIndex(vector<int>& nums){
-        vector<int>ps(nums.size());
-        vector<int>ss(nums.size());
-        ps[0]=nums[0];
-        ss[nums.size()-1]=nums[nums.size()-1];
-        for(int i=1; i<nums.size(); i++){
-            ps[i]= ps[i-1]+nums[i];
-        }  
-
-        for(int i=nums.size()-2; i>=0; i--){
-            ss[i]=ss[i+1]+nums[i];
+        int totalSum=0;
+        for(int i=0; i<nums.size(); i++){
+            totalSum+=nums[i];
         }
 
+        int leftsum=0;
         for(int i=0; i<nums.size(); i++){
-            if(ps[i]-ss[i]==0){
+            int rightsum= totalSum-nums[i]-leftsum;
+            if(rightsum==leftsum){
                 return i;
             }
+            leftsum+=nums[i];
         }
     return -1;    
     }
