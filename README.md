@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0503-next-greater-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0611-valid-triangle-number) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0904-fruit-into-baskets) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0523-continuous-subarray-sum](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0523-continuous-subarray-sum) |
 | [0830-largest-triangle-area](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1018-largest-perimeter-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0930-binary-subarrays-with-sum) |
