@@ -642,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0778-swim-in-rising-water) |
 | [1020-number-of-enclaves](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Enumeration
