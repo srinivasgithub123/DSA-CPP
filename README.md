@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0260-single-number-iii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Matrix
 |  |
