@@ -73,6 +73,7 @@ public:
             int row= pq.top().second.first;
             int col= pq.top().second.second;
             pq.pop();
+            if(dis>dist[row][col])continue;
 
             for(int i=0; i<4; i++){
                 int nr=row+dr[i];
