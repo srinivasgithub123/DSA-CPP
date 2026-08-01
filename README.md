@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0148-sort-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0611-valid-triangle-number) |
 | [0874-backspace-string-compare](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0874-backspace-string-compare) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0260-single-number-iii) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0222-count-complete-tree-nodes) |
 | [0611-valid-triangle-number](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0611-valid-triangle-number) |
 | [0778-swim-in-rising-water](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0778-swim-in-rising-water) |
