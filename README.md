@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0148-sort-list) |
 | [0567-permutation-in-string](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0567-permutation-in-string) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
