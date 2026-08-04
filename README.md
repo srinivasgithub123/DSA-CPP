@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Simulation
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3731-find-missing-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3713-longest-balanced-substring-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
