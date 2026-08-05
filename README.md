@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
