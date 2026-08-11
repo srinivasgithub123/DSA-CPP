@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0084-largest-rectangle-in-histogram) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0222-count-complete-tree-nodes) |
