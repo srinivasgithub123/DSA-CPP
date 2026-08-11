@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0523-continuous-subarray-sum) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0222-count-complete-tree-nodes) |
@@ -736,4 +738,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0202-happy-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
