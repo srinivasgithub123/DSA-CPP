@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0778-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0830-largest-triangle-area) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0875-koko-eating-bananas](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0875-koko-eating-bananas) |
 | [0883-car-fleet](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0883-car-fleet) |
 | [0904-fruit-into-baskets](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0905-sort-array-by-parity) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0374-guess-number-higher-or-lower) |
 | [0611-valid-triangle-number](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0611-valid-triangle-number) |
 | [0778-swim-in-rising-water](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0778-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1004-max-consecutive-ones-iii) |
 | [1612-avoid-flood-in-the-city](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
