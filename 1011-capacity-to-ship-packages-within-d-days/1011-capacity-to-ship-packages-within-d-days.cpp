@@ -7,11 +7,6 @@ public:
 
         for (auto it : weights) {
 
-            // One package itself is too heavy
-            if (it > wt) {
-                return false;
-            }
-
             if (sum + it > wt) {
                 tdays++;
                 sum = it;
@@ -30,7 +25,7 @@ public:
             total += it;
         }
 
-        int left = 1;
+        int left = *max_element(weights.begin(), weights.end());
         int right = total;
 
         while (left < right) {
