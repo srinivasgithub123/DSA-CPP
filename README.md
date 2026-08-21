@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0523-continuous-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0611-valid-triangle-number) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0611-valid-triangle-number) |
 | [0778-swim-in-rising-water](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0875-koko-eating-bananas) |
