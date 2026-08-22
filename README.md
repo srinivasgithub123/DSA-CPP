@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0778-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0830-largest-triangle-area) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0875-koko-eating-bananas](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0875-koko-eating-bananas) |
 | [0883-car-fleet](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0883-car-fleet) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0611-valid-triangle-number) |
 | [0778-swim-in-rising-water](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0778-swim-in-rising-water) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -765,4 +767,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0374-guess-number-higher-or-lower) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/srinivasgithub123/DSA-CPP/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
