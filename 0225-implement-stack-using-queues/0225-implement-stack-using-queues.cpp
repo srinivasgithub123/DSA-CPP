@@ -1,37 +1,75 @@
+// class MyStack {
+// public:
+//     queue<int> q1;
+//     queue<int> q2;
+//     MyStack() {
+        
+//     }
+    
+//     void push(int x) {
+//         while(!q1.empty()){
+//             q2.push(q1.front());
+//             q1.pop();
+//         }
+//         q1.push(x);
+        
+//         while(!q2.empty()){
+//             q1.push(q2.front());
+//             q2.pop();
+//         }
+        
+//     }
+    
+//     int pop() {
+//         int ans= q1.front();
+//         q1.pop();
+//         return ans;
+//     }
+    
+//     int top() {
+//         return q1.front();
+//     }
+    
+//     bool empty() {
+//         return q1.empty();
+//     }
+// };
+
+
 class MyStack {
 public:
-    queue<int> q1;
-    queue<int> q2;
+    queue<int> q;
+    
     MyStack() {
         
     }
     
     void push(int x) {
-        while(!q1.empty()){
-            q2.push(q1.front());
-            q1.pop();
+        int n = q.size();
+        q.push(x);
+
+        while(n--) {
+            q.push(q.front());
+            q.pop();
         }
-        q1.push(x);
-        
-        while(!q2.empty()){
-            q1.push(q2.front());
-            q2.pop();
-        }
-        
     }
     
     int pop() {
-        int ans= q1.front();
-        q1.pop();
-        return ans;
+        int elem= q.front();
+        q.pop();
+        return elem;
+        
     }
     
     int top() {
-        return q1.front();
+        int topelem= q.front();
+        return topelem;
+        
     }
     
     bool empty() {
-        return q1.empty();
+        return q.empty();
+        
     }
 };
 
