@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2050-parallel-courses-iii](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2050-parallel-courses-iii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2169-simple-bank-system](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2169-simple-bank-system) |
 | [2195-time-needed-to-buy-tickets](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2195-time-needed-to-buy-tickets) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/srinivasgithub123/DSA-CPP/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/srinivasgithub123/DSA-CPP/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/srinivasgithub123/DSA-CPP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
